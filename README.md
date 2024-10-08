@@ -1,4 +1,4 @@
-# Riset-Informatika-C081-21081010216-Faisal-Wildan-Habibi
+# Riset-Informatika-C081_21081010216_Faisal-Wildan-Habibi
 
 |Nomor|Judul Paper|Penulis|Link|Kategori|
 |-|-|-|-|-|
